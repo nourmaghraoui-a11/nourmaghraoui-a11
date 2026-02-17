@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Nour Maghraoui!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C9EF8&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%F0%9F%8E%93;Project+Team+Manager+%40+ISAMM+Microsoft+Club;Backend+Developer+in+Progress+%F0%9F%9A%80;Always+Learning+Something+New+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C9EF8&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%F0%9F%8E%93;Member+%40+GDG+On+Campus+ISAMM;Backend+Developer+in+Progress+%F0%9F%9A%80;Always+Learning+Something+New+%F0%9F%92%A1" alt="Typing SVG" />
 </div>
 
 ---
@@ -50,6 +50,7 @@
 ### Backend & Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Data](https://img.shields.io/badge/Spring%20Data-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 
 ### Databases
