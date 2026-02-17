@@ -79,17 +79,12 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nourbenchaaben&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</div>
 
 ---
 
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=nourbenchaaben&icon=0&color=6" />
+  
   
   *"Driven by curiosity and a thirst for knowledge"* ✨
 </div>
